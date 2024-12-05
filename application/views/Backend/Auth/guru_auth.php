@@ -30,7 +30,7 @@
 
      <div class="container-fluid login-wrapper">
          <div class="login-box">
-             <h1 class="text-center mb-5"><i class="fa fa-rocket text-primary"></i> Sleekadmin</h1>
+             <h1 class="text-center mb-5"><i class="fa fa-rocket text-primary"></i> Attin Bimbel</h1>
              <div class="row">
                  <div class="col-md-6 col-sm-6 col-12 login-box-info">
                      <h3 class="mb-4">Sign in</h3>
