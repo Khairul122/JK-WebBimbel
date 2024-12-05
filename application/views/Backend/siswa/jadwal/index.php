@@ -11,9 +11,9 @@
                  <h6 class="mb-4 bc-header"><?= $title ?></h6>
              </div>
          </div>
-         <div>
+         <!-- <div>
              &nbsp;<a target="_blank" href="<?= base_url(); ?>siswa/cetak_jadwal" class="btn btn-danger mb-3"><i class="fa fa-print"></i> Cetak</a>
-         </div>
+         </div> -->
 
          <div class="table-responsive">
              <table id="example" class="table table-striped table-bordered">

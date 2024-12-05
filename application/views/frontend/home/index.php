@@ -52,14 +52,15 @@
         Menjadi lembaga bimbingan belajar terdepan yang berkomitmen mencetak generasi cerdas, berprestasi, dan berkarakter unggul untuk menghadapi tantangan global<br>
         <br><br>
         MISI:<br>
-        1.	Menyediakan layanan bimbingan belajar yang berkualitas dengan metode pengajaran inovatif dan interaktif.
-2.	Membantu siswa mencapai potensi akademik terbaik melalui pendekatan personal dan strategi pembelajaran efektif.
-3.	Mengembangkan program bimbingan yang relevan dengan kebutuhan kurikulum nasional dan tuntutan era digital.
-4.	Memberikan pelatihan intensif kepada tenaga pengajar untuk memastikan kualitas pembelajaran yang optimal.
-5.	Menciptakan lingkungan belajar yang kondusif, inklusif, dan memotivasi siswa untuk meraih kesuksesan akademik.
-6.	Berkontribusi dalam mencerdaskan kehidupan bangsa dengan mempersiapkan generasi penerus yang kompeten dan berintegritas.
+        1. Menyediakan layanan bimbingan belajar yang berkualitas dengan metode pengajaran inovatif dan interaktif.
+        2. Membantu siswa mencapai potensi akademik terbaik melalui pendekatan personal dan strategi pembelajaran efektif.
+        3. Mengembangkan program bimbingan yang relevan dengan kebutuhan kurikulum nasional dan tuntutan era digital.
+        4. Memberikan pelatihan intensif kepada tenaga pengajar untuk memastikan kualitas pembelajaran yang optimal.
+        5. Menciptakan lingkungan belajar yang kondusif, inklusif, dan memotivasi siswa untuk meraih kesuksesan akademik.
+        6. Berkontribusi dalam mencerdaskan kehidupan bangsa dengan mempersiapkan generasi penerus yang kompeten dan berintegritas.
 
     </div>
+    
 </section>
 
 

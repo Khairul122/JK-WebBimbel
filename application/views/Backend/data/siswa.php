@@ -123,7 +123,7 @@
 
              &nbsp;<button type="submit" class="btn btn-primary mb-3"><i class="fa fa-search"></i> Cari</button>
              <?php if ($blnnya == '' || $thn == '' || $kelasnya == '') { ?>
-                 &nbsp;<a target="_blank" href="" class="btn btn-danger mb-3" hidden><i class="fa fa-print"></i> Cetak</a>
+                 <!-- &nbsp;<a target="_blank" href="" class="btn btn-danger mb-3" hidden><i class="fa fa-print"></i> Cetak</a> -->
              <?php } else { ?>
                  &nbsp;<a target="_blank" href="<?= base_url(); ?>data/cetak_siswa/<?php echo $thn  ?>/<?php echo $blnnya  ?>/<?php echo $kelasnya  ?>" class="btn btn-danger mb-3"><i class="fa fa-print"></i> Cetak</a>
              <?php } ?>
